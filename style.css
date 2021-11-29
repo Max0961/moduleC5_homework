@@ -1,0 +1,12 @@
+label, span, img {
+  display: block;
+}
+
+span {
+  color: red;
+  display: none;
+}
+
+body * {
+  margin: 5px;
+}
